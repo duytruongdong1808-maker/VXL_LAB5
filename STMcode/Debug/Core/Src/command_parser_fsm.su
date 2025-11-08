@@ -1,0 +1,5 @@
+command_parser_fsm.c:12:20:cmd_enqueue	24	static
+command_parser_fsm.c:17:9:command_take	16	static
+command_parser_fsm.c:28:6:buffer_push	24	static
+command_parser_fsm.c:42:20:trim	24	static
+command_parser_fsm.c:50:6:command_parser_fsm	16	static

@@ -1,0 +1,3 @@
+uart_communication_fsm.c:16:24:read_adc_once	8	static
+uart_communication_fsm.c:21:20:send_adc	16	static
+uart_communication_fsm.c:26:6:uart_communiation_fsm	16	static
